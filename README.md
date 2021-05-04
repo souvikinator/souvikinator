@@ -1,7 +1,7 @@
 <h2>👋 Hello There!</h2>
 <img align="right" src="https://media.giphy.com/media/fqypN5YvaPLpRRm2xU/giphy.gif" width="150px" alt="supercalifragilisticexpialidocious"/> 
 
-Your friendly developer and IT undergrad, love exploring technologiesand making things, figuring out their underhood functioning and also like teaching. I try to solve problems around me with current knowledge and skillsets. Apart from smashing the keyboard and typing colored text on dark background, I also like doodling as a hobby. Exploring and learning a lot every day.
+Your friendly developer and IT undergrad, love making things, figuring out their underhood functioning and also like teaching. I try to solve problems around me with current knowledge and skillset(check out my repos) . Apart from smashing the keyboard and typing colored text on dark background, I also like doodling as a hobby. Exploring and learning a lot every day.
 <br />
 
 <p>
