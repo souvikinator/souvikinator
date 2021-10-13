@@ -22,4 +22,4 @@ Your friendly developer and IT undergrad, love making things, figuring out their
   <a href="https://dev.to/souvikinator"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
 </p>
 
-feel free to contribute to [my repos](https://github.com/DarthCucumber?tab=repositories)
+feel free to contribute to [my repos](https://github.com/souvikinator?tab=repositories)
