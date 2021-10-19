@@ -23,3 +23,5 @@ Your friendly developer and IT undergrad, love making things, figuring out their
 </p>
 
 feel free to contribute to [my repos](https://github.com/souvikinator?tab=repositories)
+
+![](https://komarev.com/ghpvc/?username=souvikinator&color=green)
