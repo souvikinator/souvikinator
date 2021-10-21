@@ -1,7 +1,7 @@
 <h2>👋 Hello There!</h2>
 <img align="right" src="https://media.giphy.com/media/fqypN5YvaPLpRRm2xU/giphy.gif" width="150px" alt="supercalifragilisticexpialidocious"/> 
 
-Your friendly developer and IT undergrad, love making things, figuring out their underhood functioning and also like teaching. I try to solve problems around me with current knowledge and skillset(check out my repos) . Apart from smashing the keyboard and typing colored text on dark background, I also like doodling as a hobby. Exploring and learning a lot every day.
+Your friendly developer and IT undergrad, love to solve realworld problems, figuring out underhood functioning and also like teaching a little bit 🤏. Making developer tools in general and automating stuff is a go to for me. Apart from smashing the keyboard and typing colored text on dark background, you can find me reading books, solving CTFs, music, brainstormig and doodling. Exploring and learning a lot every day.
 <br />
 
 <p>
@@ -20,6 +20,7 @@ Your friendly developer and IT undergrad, love making things, figuring out their
  <a href="mailto:souvikat001@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
  <a href="https://www.linkedin.com/in/souvik-kar-mahapatra/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://dev.to/souvikinator"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
+   <a href="https://twitter.com/souvikinator"><img alt="twitter" src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" >
 </p>
 
 feel free to contribute to [my repos](https://github.com/souvikinator?tab=repositories)
