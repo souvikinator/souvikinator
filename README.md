@@ -1,8 +1,8 @@
 <h2>👋 Hello There!</h2>
 <img align="right" src="https://media.giphy.com/media/fqypN5YvaPLpRRm2xU/giphy.gif" width="150px" alt="supercalifragilisticexpialidocious"/> 
 
-Your friendly developer and IT undergrad, love to solve realworld problems, figuring out underhood functioning and also like teaching a little bit 🤏. Making developer tools in general and automating stuff is a go to for me. Apart from smashing the keyboard and typing colored text on dark background, you can find me reading books, solving CTFs, music, brainstormig and doodling. Exploring and learning a lot every day.
-<br />
+*Your friendly developer and IT undergrad, love to solve realworld problems, figuring out underhood functioning and also like teaching a little bit 🤏. Making developer tools in general and automating stuff is a go to for me. Apart from smashing the keyboard and typing colored text on dark background, you can find me reading books, solving CTFs, music, brainstormig and doodling. Exploring and learning a lot every day.*
+
 
 <p>
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
