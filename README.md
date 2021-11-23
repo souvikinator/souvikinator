@@ -21,6 +21,7 @@
  <a href="https://www.linkedin.com/in/souvik-kar-mahapatra/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://dev.to/souvikinator"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
    <a href="https://twitter.com/souvikinator"><img alt="twitter" src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://souvikinator.github.io/resume"><img alt="twitter" src="https://img.shields.io/badge/Resume-FFAB4C?style=for-the-badge"></a>
 </p>
 
 <details>
