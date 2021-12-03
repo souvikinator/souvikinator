@@ -32,6 +32,6 @@
  
 </details>
  
-feel free to contribute to [my repos](https://github.com/souvikinator?tab=repositories)
+feel free to leave a [guestbook](https://gist.github.com/souvikinator/2848d4e6a1ec5613331410dceb1c45f7) entry
  
 ![](https://komarev.com/ghpvc/?username=souvikinator&color=green)
