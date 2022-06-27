@@ -5,7 +5,13 @@
 Your friendly developer and IT undergrad, passionate about building useful products that helps people and also like teaching a little bit 🤏. 
 Making developer tools in general and automating stuff is a go to for me.
 
-Apart from smashing the keyboard and typing colored text on dark background, you can find me reading books, solving CTFs, music, brainstorming and doodling. Exploring and learning a lot every day.
+**Hobbies**: 
+- *[reading books](https://souvikinator.netlify.app/blog/my-reading-list)*
+- *solving CTFs*
+- *music*
+- *doodling*
+
+Exploring and learning a lot every day.
 
 
 
