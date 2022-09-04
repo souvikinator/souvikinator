@@ -6,7 +6,7 @@ Your friendly developer and IT undergrad, passionate about building useful produ
 Making developer tools in general and automating stuff is a go to for me.
 
 **Hobbies**: 
-- *[reading books](https://souvikinator.netlify.app/blog/my-reading-list)*
+- *[reading books](https://souvikmp.com/blog/my-reading-list)*
 - *solving CTFs*
 - *music*
 - *doodling*
@@ -27,7 +27,7 @@ Exploring and learning a lot every day.
 </p>
 
 <p>
- <a href="mailto:souvikat001+chitchat@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+ <a href="mailto:souvikat001@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
  <a href="https://www.linkedin.com/in/souvik-kar-mahapatra/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://dev.to/souvikinator"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
    <a href="https://twitter.com/souvikinator"><img alt="twitter" src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"></a>
