@@ -5,15 +5,11 @@
 Your friendly developer and IT undergrad, passionate about building useful products that helps people and also like teaching a little bit 🤏. 
 Making developer tools in general and automating stuff is a go to for me.
 
-**Hobbies**: 
-- *[reading books](https://souvikmp.com/blog/my-reading-list)*
-- *solving CTFs*
-- *music*
-- *doodling*
+**What am I up to?**: 
+- building <a href="https://seroautolink.com">seroautolink.com</a> (a part of <a href="https://zerohq.io">zerohq.io</a>
+- notes to self @ <a href="https://souvikinator.xyz">souvikinator.xyz</a> 
 
 Exploring and learning a lot every day.
-
-
 
 <p>
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
