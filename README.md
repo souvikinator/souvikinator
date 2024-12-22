@@ -7,9 +7,7 @@ Hey! Stop ✋ you might be in a hurry, so here’s a quick intro about me:
 - **I share what I learn**: From projects to ideas, I love documenting my journey and helping others along the way. 
 - **What I’m working on**: Currently improving notion-to-md and build a community around it.
 
-If my content resonates with you, share it with your crew it might help them too ;)
-
-You can follow my writeups on: [souvikinator.xyz](https://souvikinator.xyz), [dev.to/@souvikinator](https://dev.to/@souvikinator), [souvikinator.medium.com](https://souvikinator.medium.com) 
+If my content resonates with you, share it with your crew it might help them too. You can follow my writeups on: [souvikinator.xyz](https://souvikinator.xyz), [dev.to/@souvikinator](https://dev.to/@souvikinator), [souvikinator.medium.com](https://souvikinator.medium.com) 
 
 Exploring and learning a lot every day.
 
