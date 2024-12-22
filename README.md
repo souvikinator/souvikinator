@@ -1,13 +1,15 @@
 <h2>👋 Hello There!</h2>
 <img align="right" src="https://media.giphy.com/media/fqypN5YvaPLpRRm2xU/giphy.gif" width="150px" alt="supercalifragilisticexpialidocious"/> 
 
+Hey! Stop ✋ you might be in a hurry, so here’s a quick intro about me:
 
-Your friendly developer and IT undergrad, passionate about building useful products that helps people and also like teaching a little bit 🤏. 
-Making developer tools in general and automating stuff is a go to for me.
+- **I’m a builder**: I create tools focused on automating boring tasks and solving real-world problems.
+- **I share what I learn**: From projects to ideas, I love documenting my journey and helping others along the way. 
+- **What I’m working on**: Currently improving notion-to-md and build a community around it.
 
-**What am I up to?**: 
-- building notion-to-md
-- notes to self @ <a href="https://souvikinator.xyz">souvikinator.xyz</a> 
+If my content resonates with you, share it with your crew it might help them too ;)
+
+You can follow my writeups on: [souvikinator.xyz](https://souvikinator.xyz), [dev.to/@souvikinator](https://dev.to/@souvikinator), [souvikinator.medium.com](https://souvikinator.medium.com) 
 
 Exploring and learning a lot every day.
 
