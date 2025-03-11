@@ -1,3 +1,6 @@
+> [!NOTE]  
+> I'm open to opportunities, feel free to reach out at my [email](mailto:souvikat001@gmail.com)!
+
 <h2>👋 Hello There!</h2>
 <img align="right" src="https://media.giphy.com/media/fqypN5YvaPLpRRm2xU/giphy.gif" width="150px" alt="supercalifragilisticexpialidocious"/> 
 
